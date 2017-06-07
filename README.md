@@ -25,7 +25,7 @@ Create your own mobile web application that shows the list of restaurants in you
 # Milestone 1 - Clone base files from Github
 1. Sign in to c9.io using your account created above (see "Prerequisites").
 2. Click on "Create new workspace" or go to this URL: https://c9.io/new
-3. Enter "ics-final-2016" as the workspace name and "[your_name]'s Final Project" as description.
+3. Enter "ihs-final-2017" as the workspace name and "[your_name]'s Final Project" as description.
 4. Keep the default for "Hosted Workspace" as "Public"
 4. Enter the following Github URL for the "Clone from Git or Mercurial URL" field: https://github.com/YOURNAME/ihs-final-2017.git
 5. Keep the default for the "Choose a template" as "HTML5"
@@ -108,7 +108,7 @@ Congratulations! You cloned the project on c9.io. You will see this Readme file 
 
 ##### Bug-2: Stores display does not refresh on change of location 
    - **Steps to reproduce:** (for my mobile app, your link will be different)
-   - Open the application in Chrome at https://ics-final-2016-surendermohan.c9users.io/index.html
+   - Open the application in Chrome at https://iha-final-2017-surendermohan.c9users.io/index.html
    - Open "Developer Tools" in Chrome by pressing "Ctrl+Shift+I" on Windows (or from the menu for Mac folks)
    - Open the Console tab in the "Developer Tool"
    - Look up the Lat/Long of a store from your own catalog.
@@ -137,7 +137,7 @@ Congratulations! You cloned the project on c9.io. You will see this Readme file 
 
 
 ##### Grading Rubric:
-   - Total 100 points, with possibility to earn upto 20 MORE EXTRA CREDIT points until 6/10/2016, 11:59 PM)
+   - Total 100 points, with possibility to earn upto 20 MORE EXTRA CREDIT points until 6/21/2017, 11:59 PM)
    - 10 : Milestone 1
    - 20 : Milestone 2
    - 10 : Milestone 3
