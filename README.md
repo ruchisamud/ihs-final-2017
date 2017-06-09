@@ -74,13 +74,19 @@ Congratulations! You cloned the project on c9.io. You will see this Readme file 
 2. Open the Spreadsheet you created for yourself and update columns A-H to modify a store from your locality
 3. Open the web link of your application and you should see your nealy added store.
 4. Repeat steps 2,3 for other stores
-5. Document your steps to explain how you updated the stores.
+5. Write the procedure you used identify the stores and find the locations and include it in your report.
 
 # jsFiddle and Geolocation Learning Exercise
 1. Go to http://doc.jsfiddle.net/tutorial.html and run the tutorial
 2. Read about Geolocation at http://www.w3schools.com/html/html5_geolocation.asp
 3. Try the code at http://www.w3schools.com/html/tryit.asp?filename=tryhtml5_geolocation
 4. Create a jsFiddle for Geolocation based on the code in Part 3. Save it and add the link in your notes. (Note: you will have to split the file in HTML and JavaScript portions). For example: https://jsfiddle.net/cxjwj80c/
+
+# Document 1: Email with answers to the following:
+1. Link to your Github Repository.
+2. Give me r/w access to your c9.io workspace so that I can check the app and run the code.
+3. Link to the jsfiddle for Geolocation mentioend above.
+4. Describe the procedure (step by step process) used to add new stores in your spreadsheet. (See #5-5 above)
 
 # Reading Exercise 
 1. Read about HTML5 and CSS at high level.
@@ -142,12 +148,18 @@ Congratulations! You cloned the project on c9.io. You will see this Readme file 
    - 20 : Milestone 2
    - 10 : Milestone 3
    - 20 : Milestone 5
-   - 10 : Mobile App Part 1 description part.
+   - 10 : Document-1 - Mobile App Part 1 description of process used to update.
    - 10 : Milestone 6 : Bug #1
    - 15 : Milestone 6 : Bug #2
    - 5  : Milestone 7 : Push your code back in your Github repo
-   - Extra Credit - upto 20 points for Questions and Milestone 8
+   - Extra Credit - upto 20 points
+   - 10 : Dcoument 2:  Questions (see below) 
+   - 10 : Milestone 8 (Described below)
 
+# Document 2 - Answer following questions.
+1. What is a callback in JavaScript? Give examples of the code snippets from js/s2m.js where the callback is used.
+2. What is jQuery? Describe in 100 to 250 words.  In addition you can attach links to some saved jsFiddle examples.
+3. What is jQuery Mobile? Is it related to jQuery? Describe in 100 to 250 words. In addition you can attach links to some saved jsFiddle examples.
 
 # Milestone 8 - Implement the feature to use ProximityRadius value from the Catalog (up to 10 points of Extra Credit)
 ##### Goal of this milestone is to implement a feature to use the ProximityRadius value read from the column V in the catalog.
