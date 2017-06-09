@@ -25,8 +25,8 @@ Create your own mobile web application that shows the list of restaurants in you
    - 15 : Milestone 6 : Bug #2
    - 5  : Milestone 7 : Push your code back in your Github repo
    - Extra Credit - upto 20 points
-   -- 10 : Dcoument 2:  Questions (see below) 
-   -- 10 : Milestone 8 (Described below)
+   - 10 : Dcoument 2:  Questions (see below) 
+   - 10 : Milestone 8 (Described below)
 
 # Milestone 0 - Fork the Github repository
 1. Sign in to Github using your account created above (see "Prerequisites").
