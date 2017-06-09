@@ -14,6 +14,20 @@ Final project for AP Computer Science 2017 class
 # Goals of the project
 Create your own mobile web application that shows the list of restaurants in your vicinty as you're traveling. Learn how to use a Cloud IDE and create live HTML5 web site for testing.
 
+## Grading Rubric:
+   - Total 100 points, with possibility to earn upto 20 MORE EXTRA CREDIT points until 6/21/2017, 11:59 PM)
+   - 10 : Milestone 1
+   - 20 : Milestone 2
+   - 10 : Milestone 3
+   - 20 : Milestone 5
+   - 10 : Document-1 - Mobile App Part 1 description of process used to update.
+   - 10 : Milestone 6 : Bug #1
+   - 15 : Milestone 6 : Bug #2
+   - 5  : Milestone 7 : Push your code back in your Github repo
+   - Extra Credit - upto 20 points
+   -- 10 : Dcoument 2:  Questions (see below) 
+   -- 10 : Milestone 8 (Described below)
+
 # Milestone 0 - Fork the Github repository
 1. Sign in to Github using your account created above (see "Prerequisites").
 2. Go to this URL: https://github.com/surendermohan/ihs-final-2017
@@ -142,20 +156,6 @@ Congratulations! You cloned the project on c9.io. You will see this Readme file 
 2. Go back to your Githib repository (see "Milestone 6") and verify that you can see
    your changes.
 
-
-##### Grading Rubric:
-   - Total 100 points, with possibility to earn upto 20 MORE EXTRA CREDIT points until 6/21/2017, 11:59 PM)
-   - 10 : Milestone 1
-   - 20 : Milestone 2
-   - 10 : Milestone 3
-   - 20 : Milestone 5
-   - 10 : Document-1 - Mobile App Part 1 description of process used to update.
-   - 10 : Milestone 6 : Bug #1
-   - 15 : Milestone 6 : Bug #2
-   - 5  : Milestone 7 : Push your code back in your Github repo
-   - Extra Credit - upto 20 points
-   - 10 : Dcoument 2:  Questions (see below) 
-   - 10 : Milestone 8 (Described below)
 
 # Document 2 - Answer the following questions:
 1. What is a callback in JavaScript? Give examples of the code snippets from js/s2m.js where the callback is used.
