@@ -47,9 +47,10 @@ Congratulations! You cloned the project on c9.io. You will see this Readme file 
 
 # Milestone 3 - Push your changes to your Github repository
 1. In the "bash" tab at the bottom of the c9.io IDE, type the following:
-   - git add index.html
+   - git add index.html 
      - (this tells Git that you have made some changes to index.html that you intend 
-        to commit to the repository)
+        to commit to the repository. Optional for small projects, you can use git commit -a 
+        to add files along with commit)
    - git commit
      - (this commits the changes you made to the local copy of your repository within 
         c9.io; type a short description of your change in the editor that appears, then
@@ -82,10 +83,10 @@ Congratulations! You cloned the project on c9.io. You will see this Readme file 
 3. Try the code at http://www.w3schools.com/html/tryit.asp?filename=tryhtml5_geolocation
 4. Create a jsFiddle for Geolocation based on the code in Part 3. Save it and add the link in your notes. (Note: you will have to split the file in HTML and JavaScript portions). For example: https://jsfiddle.net/cxjwj80c/
 
-# Document 1: Email with answers to the following:
+# Document 1: Answers the following questions:
 1. Link to your Github Repository.
 2. Give me r/w access to your c9.io workspace so that I can check the app and run the code.
-3. Link to the jsfiddle for Geolocation mentioend above.
+3. Link to the jsfiddle for Geolocation mentioned above.
 4. Describe the procedure (step by step process) used to add new stores in your spreadsheet. (See #5-5 above)
 
 # Reading Exercise 
@@ -156,7 +157,7 @@ Congratulations! You cloned the project on c9.io. You will see this Readme file 
    - 10 : Dcoument 2:  Questions (see below) 
    - 10 : Milestone 8 (Described below)
 
-# Document 2 - Answer following questions.
+# Document 2 - Answer the following questions:
 1. What is a callback in JavaScript? Give examples of the code snippets from js/s2m.js where the callback is used.
 2. What is jQuery? Describe in 100 to 250 words.  In addition you can attach links to some saved jsFiddle examples.
 3. What is jQuery Mobile? Is it related to jQuery? Describe in 100 to 250 words. In addition you can attach links to some saved jsFiddle examples.
