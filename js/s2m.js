@@ -251,7 +251,7 @@ function geolocationWatchSuccess_helper(lat, lng) {
     var last5Distance = closestStoreDistance+50;
     var last10Distance = closestStoreDistance+50;
     // logic for proximity message
-    if (closestStoreProximityMessage != null && closestStoreDistance < 300) {
+    if (closestStoreProximityMessage != null && closestStoreDistance < closestStoreProximityRadius) {
       last5Distance = distEuclidean(closestStoreLat, closestStoreLng, last5Geo.lat, last5Geo.lng);
       if (lastProximityMessage != closestStoreProximityMessage) { // Show only once 
         lastProximityMessage = closestStoreProximityMessage;
